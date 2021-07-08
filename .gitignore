@@ -117,6 +117,19 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
+#Data
+myData/
+Data/
+data/
+DATA/
+
+#zip
+.zip
+
+.DS_Store
+.ipynbcheckpoints
+
+
 # mkdocs documentation
 /site
 
