@@ -125,9 +125,11 @@ DATA/
 
 #zip
 .zip
+.tar.gz
 
 .DS_Store
 .ipynbcheckpoints
+.ipynb_checkpoints
 
 
 # mkdocs documentation
