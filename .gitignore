@@ -128,8 +128,8 @@ DATA/
 .tar.gz
 
 .DS_Store
-.ipynbcheckpoints
 .ipynb_checkpoints
+.ipynb_checkpoints/
 
 
 # mkdocs documentation
